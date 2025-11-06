@@ -1,0 +1,9 @@
+torch
+torchvision
+transformers
+diffusers
+accelerate
+pillow
+numpy
+gradio==3.41.2
+huggingface-hub
